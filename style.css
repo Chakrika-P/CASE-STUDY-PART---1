@@ -1,0 +1,29 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background-color: white;
+}
+
+.header_div
+{
+    color: brown;
+    background-color: rgb(104, 144, 64);
+}
+#app_logo
+{
+    width: 100px;
+}
+.main_div
+{
+    background-color: chartreuse;
+    padding: 10px;
+    margin-top: 20px;
+    border: 3px solid black;
+}
+.main_div label
+{
+background-color: rgb(149, 255, 149);
+width: 310px;
+padding: 10px;
+margin-bottom: 0px;
+box-shadow: 5px 5px 25px rgb(0, 66, 0);
+}
